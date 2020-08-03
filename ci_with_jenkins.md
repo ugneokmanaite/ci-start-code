@@ -14,3 +14,14 @@
 - Procedures/ Platforms will depend
 
 
+## Where does DevOps come into this?
+- SDLC used to be very slow!- New ideas would take long to implament
+- Risk of software being released with flaws used to be much higher!
+- DevOps allows you to develop and release more products with improved speed, quality and reduced costs
+- Need for DevOps came from companies doing agile 
+- Agile & DevOps combine collective effrots to incorporate CI/CD so that software updates and development keeps going throughout the year 
+- Checks & balances of both make sure that each small change can compile effectively and seamlessly with original software and changed made by other developers
+
+
+
+

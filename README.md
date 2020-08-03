@@ -64,6 +64,7 @@ Now the secured public key from your local system has been copied to the cloud/G
 ![image](https://wac-cdn.atlassian.com/dam/jcr:b2a6d1a7-1a60-4c77-aa30-f3eb675d6ad6/ci%20cd%20asset%20updates%20.007.png?cdnVersion=1158)
 
 ## Continuous Integration (CI)
+- Daily basis
 - Merging all developer working copies to a shared mainline several times a day
 - CI Model takes Agile a step further by automating the integration and Testing
 - Developer submits only small segments of the application at a time
@@ -84,3 +85,7 @@ Now the secured public key from your local system has been copied to the cloud/G
 - Allows them to ssign developers to a specific set of functions to which they will continually work on and improve upon based on user feedback
 - Because of the small iterative changes that are constantly being added and updated to the production product, the users don’t experience any big changes that can sometimes cause consumer anxiety
 - Once the developer saves the new code, it is automatically built, integrated, tested, and deployed directly to the production environment
+- Sending it live to the customers 
+## Difference Between CDE and CD
+
+- 
