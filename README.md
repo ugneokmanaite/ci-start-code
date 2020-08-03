@@ -54,4 +54,4 @@ Now the secured public key from your local system has been copied to the cloud/G
 ## What is Jenkins?
 -  An open source automation server which enables developers around the world to reliably build, test, and deploy their software
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJmH4qKeQ6ro&psig=AOvVaw1aPv0tB7DW10Fe2LHwE_cs&ust=1596540028401000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDmpZz1_uoCFQAAAAAdAAAAABAD)
+![image](https://i.ytimg.com/vi/JmH4qKeQ6ro/maxresdefault.jpg)
