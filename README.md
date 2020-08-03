@@ -55,3 +55,32 @@ Now the secured public key from your local system has been copied to the cloud/G
 -  An open source automation server which enables developers around the world to reliably build, test, and deploy their software
 
 ![image](https://i.ytimg.com/vi/JmH4qKeQ6ro/maxresdefault.jpg)
+
+1. SOURCE 
+2. BUILD 
+3. TEST
+
+## What is the difference between CI (continuous integration) and CID (continuous deployment)
+![image](https://wac-cdn.atlassian.com/dam/jcr:b2a6d1a7-1a60-4c77-aa30-f3eb675d6ad6/ci%20cd%20asset%20updates%20.007.png?cdnVersion=1158)
+
+## Continuous Integration (CI)
+- Merging all developer working copies to a shared mainline several times a day
+- CI Model takes Agile a step further by automating the integration and Testing
+- Developer submits only small segments of the application at a time
+- This is then saved & automatically sent to build server immediately or at regular intervals throughout the day
+- Build is then automatically passd to a test server that executes a series of automated unit tests to ensure that new code segments work as planned
+
+
+
+## Continuous delivery (CDE) 
+- Is done manually 
+- Code is compiled, tested and dropped into the staging environment
+
+
+## Continuous deployment (CD)
+
+- Enables deveopment team to integrate code segments to the production envrionment several times per day 
+- Application of CD can be found at number of large organisations e.g. Amazon, Google
+- Allows them to ssign developers to a specific set of functions to which they will continually work on and improve upon based on user feedback
+- Because of the small iterative changes that are constantly being added and updated to the production product, the users don’t experience any big changes that can sometimes cause consumer anxiety
+- Once the developer saves the new code, it is automatically built, integrated, tested, and deployed directly to the production environment
