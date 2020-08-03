@@ -12,3 +12,8 @@ SSH and HTTPS
 Public and Private
 ```
 
+1. Generate SSH keys on your local system
+2. Copy the key from local system to the specific repo on Github (ci-start-code)
+3. .ssh folder where we have SSH keys available
+4. Name the new key as your name e.g. ugne
+
