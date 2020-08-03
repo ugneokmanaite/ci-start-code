@@ -31,3 +31,4 @@ Public and Private
 ### It is essential to write descriptive names e.g. ugne-jenkins
 - knowing which keys to link with what 
 
+Now the secured public key from your local system has been copied to the cloud/Github
